@@ -43,6 +43,7 @@ public static class ControllerManager
 
     public static void Start()
     {
+        return null;
         // Flushing possible JoyShocks...
         JslDisconnectAndDisposeAll();
 
